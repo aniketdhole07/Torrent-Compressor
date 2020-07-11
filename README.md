@@ -1,6 +1,7 @@
 # Torrent-Compressor
 
 Torrent Compressor allows you to compress torrent files in video format and lets you download it. <br>
+You could also compress any direct download links.
 Default Compression(100MB --> 20MB)
 
 To use this I have used Google Colab ,Where you paste the magnet link of torrent and then you will be able to compress the file and download it
