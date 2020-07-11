@@ -15,13 +15,14 @@ To use this I have used Google Colab ,Where you paste the magnet link of torrent
 3. Then you could download the compressed files directly or can upload to drive.
 
 ### Samples
+(You could adjust the compression ratio) here it is around 200kb to 20kb (for the image)
 
 **Original**
 
-![Original](original.png)
+<img src="original.png" width="500" height="300">
 
 **Compressed**
 
-![Compressed](compressed.png)
+<img src="compressed.png" width="500" height="300">
 
 # Enjoy Torrenting 
