@@ -8,6 +8,7 @@ Default Compression(100MB --> 20MB)
 
 To use this I have used Google Colab ,Where you paste the magnet link of torrent and then you will be able to compress the file and download it
 
+Use this app to get magnet links : https://play.google.com/store/apps/details?id=com.content.magnetsearch
 ### Usage
 
 1. Open the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cYEJFXINyVoFrw3GzxASG2R3NFOK-Io1?usp=sharing)
